@@ -1,6 +1,6 @@
 How to use the program
 
-Run the project.jar by double clicking it a window explorer.
+Run the project.jar by double clicking it in a window explorer.
 
 After the program is executed, you should see a login window. You login with the correct user name and password. A welcome window will popup after login. And other window(s) will popup depends on the type of account you have signed in with.
 
